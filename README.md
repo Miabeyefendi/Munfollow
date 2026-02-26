@@ -1,13 +1,20 @@
 # 🔥 Munfollow - Ultimate Instagram Mass Unfollow Tool
 
-[![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/Miabeyefendi/munfollow)
-[![Instagram](https://img.shields.io/badge/Platform-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)]()
+<div align="center">
+  
+  [![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/Miabeyefendi/munfollow)
+  [![Instagram](https://img.shields.io/badge/Platform-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
+  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+  
+  <h3>
+    English 🇬🇧 | <a href="README_TR.md">Türkçe 🇹🇷</a> | <a href="README_ES.md">Español 🇪🇸</a>
+  </h3>
 
-> **Stop wasting hours manually unfollowing people.** Munfollow is a powerful, safe, and intelligent JavaScript tool designed to clean up your Instagram following list directly from your browser console.
+</div>
 
 ---
+
+> **Stop wasting hours manually unfollowing people.** Munfollow is a powerful, safe, and intelligent JavaScript tool designed to clean up your Instagram following list directly from your browser console.
 
 ## ⚡ Why Munfollow?
 
@@ -64,14 +71,8 @@ While Munfollow includes safety features (delays, pauses), Instagram has strict 
 
 ---
 
-## 🤝 Contributing
-
-Found a bug? Want to add a new language?
-Feel free to [open an issue](https://github.com/Miabeyefendi/munfollow/issues) or submit a pull request.
-
 ## 🌟 Support
 
 If this tool helped you clean your account, please give it a **Star ⭐**!
 
----
 *Created by [@miabeyefendi](https://github.com/Miabeyefendi)*
